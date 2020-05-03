@@ -1,5 +1,7 @@
 # Car-scratch-segmentation-and-bbox-localization
 
+## Task: Segmenting and localizing scratches in cars
+
 Data: 150 images scraped from internet.
 
 Model: Fastai unet learner
