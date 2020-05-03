@@ -14,5 +14,8 @@ Some results:
 
 ## Pre-requisites
 
-### Python3 PyTorch FastAI OpenCV
+Python3 
+PyTorch 
+FastAI 
+OpenCV
 
