@@ -6,6 +6,6 @@ Model: Fastai unet learner
 
 Some results:
 
-![](Images/3zvm95.gif)
+![](Images/3zvm95.gif)  ![](Images/3zvmv7.gif
 
 
