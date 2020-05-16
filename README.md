@@ -6,6 +6,8 @@ Data: 150 images scraped from internet. Most challenging part of this project wa
 
 Model: Fastai unet learner
 
+Note: This work is done under my internship and it's code is confidential.
+
 ## Results:
 
 ![](Images/3zvm95.gif)  ![](Images/3zvmv7.gif)
