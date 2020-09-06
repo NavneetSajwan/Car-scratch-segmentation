@@ -6,7 +6,7 @@ Data: 150 images scraped from internet. Most challenging part of this project wa
 
 Model: Fastai unet learner
 
-Note: This work is done under my internship and its code is confidential.
+Note: This work is done under my internship and its code is proprietory.
 
 ## Results:
 
